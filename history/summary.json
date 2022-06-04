@@ -76,19 +76,19 @@
     "url": "https://sonar.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/sonar.orfeo-toolbox.org",
     "slug": "code-quality-analysis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 1232,
-    "timeWeek": 1043,
-    "timeMonth": 901,
-    "timeYear": 901,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 897,
+    "timeDay": 1008,
+    "timeWeek": 1011,
+    "timeMonth": 897,
+    "timeYear": 897,
     "dailyMinutesDown": {
-      "2022-06-04": 0
+      "2022-06-04": 5
     }
   }
 ]
