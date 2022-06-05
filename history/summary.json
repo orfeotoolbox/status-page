@@ -58,10 +58,10 @@
     "url": "https://cdash.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/cdash.orfeo-toolbox.org",
     "slug": "cdash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1055,
@@ -69,14 +69,16 @@
     "timeWeek": 1109,
     "timeMonth": 1055,
     "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-05": 2
+    }
   },
   {
     "name": "Code Quality Analysis",
     "url": "https://sonar.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/sonar.orfeo-toolbox.org",
     "slug": "code-quality-analysis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 1011,
     "timeMonth": 897,
     "timeYear": 897,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-05": 0
+    }
   }
 ]
