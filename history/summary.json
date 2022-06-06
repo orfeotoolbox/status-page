@@ -4,19 +4,19 @@
     "url": "https://gitlab.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/gitlab.orfeo-toolbox.org",
     "slug": "forge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1993,
-    "timeDay": 1177,
-    "timeWeek": 1916,
-    "timeMonth": 1993,
-    "timeYear": 1993,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1996,
+    "timeDay": 1476,
+    "timeWeek": 1933,
+    "timeMonth": 1996,
+    "timeYear": 1996,
     "dailyMinutesDown": {
-      "2022-06-06": 0
+      "2022-06-06": 14
     }
   },
   {
