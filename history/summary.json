@@ -4,18 +4,20 @@
     "url": "https://gitlab.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/gitlab.orfeo-toolbox.org",
     "slug": "forge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1990,
-    "timeDay": 2387,
-    "timeWeek": 2020,
-    "timeMonth": 2016,
-    "timeYear": 1990,
-    "dailyMinutesDown": {}
+    "time": 1966,
+    "timeDay": 1615,
+    "timeWeek": 1873,
+    "timeMonth": 1982,
+    "timeYear": 1966,
+    "dailyMinutesDown": {
+      "2022-06-22": 0
+    }
   },
   {
     "name": "Forum",
