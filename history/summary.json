@@ -4,18 +4,19 @@
     "url": "https://gitlab.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/gitlab.orfeo-toolbox.org",
     "slug": "forge",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 1965,
     "timeDay": 2122,
     "timeWeek": 2101,
     "timeMonth": 1939,
     "timeYear": 1965,
     "dailyMinutesDown": {
+      "2022-07-15": 2,
       "2022-06-22": 23
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://forum.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/forum.orfeo-toolbox.org",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1348,
@@ -35,17 +36,19 @@
     "timeWeek": 1472,
     "timeMonth": 1374,
     "timeYear": 1348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 2
+    }
   },
   {
     "name": "Website",
     "url": "https://www.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/www.orfeo-toolbox.org",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 976,
@@ -53,17 +56,19 @@
     "timeWeek": 970,
     "timeMonth": 939,
     "timeYear": 976,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 1
+    }
   },
   {
     "name": "Cdash",
     "url": "https://cdash.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/cdash.orfeo-toolbox.org",
     "slug": "cdash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1361,
@@ -71,16 +76,18 @@
     "timeWeek": 1155,
     "timeMonth": 1037,
     "timeYear": 1361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 1
+    }
   },
   {
     "name": "Code Quality Analysis",
     "url": "https://sonar.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/sonar.orfeo-toolbox.org",
     "slug": "code-quality-analysis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +96,8 @@
     "timeWeek": 1041,
     "timeMonth": 923,
     "timeYear": 973,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 0
+    }
   }
 ]
