@@ -26,9 +26,9 @@
     "url": "https://forum.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/forum.orfeo-toolbox.org",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -38,6 +38,7 @@
     "timeMonth": 1296,
     "timeYear": 1317,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-08-02": 43,
       "2022-07-15": 25
     }
@@ -67,18 +68,19 @@
     "url": "https://cdash.orfeo-toolbox.org",
     "icon": "https://favicons.githubusercontent.com/cdash.orfeo-toolbox.org",
     "slug": "cdash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1261,
-    "timeDay": 4492,
-    "timeWeek": 1611,
-    "timeMonth": 1164,
-    "timeYear": 1261,
+    "time": 1256,
+    "timeDay": 2578,
+    "timeWeek": 1493,
+    "timeMonth": 1149,
+    "timeYear": 1256,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-07-15": 24
     }
   },
