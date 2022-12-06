@@ -6,7 +6,7 @@
     "slug": "forge",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 1898,
     "timeYear": 1927,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-11-08": 45,
       "2022-10-11": 43,
       "2022-09-16": 19,
