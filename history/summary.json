@@ -33,7 +33,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.49%",
     "time": 1272,
     "timeDay": 1347,
     "timeWeek": 1394,
@@ -44,8 +44,7 @@
       "2023-10-17": 27,
       "2023-06-15": 35,
       "2023-03-06": 254,
-      "2022-12-19": 976,
-      "2022-12-18": 1440
+      "2022-12-19": 976
     }
   },
   {
@@ -76,9 +75,9 @@
     "slug": "cdash",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1282,
     "timeDay": 1391,
@@ -86,7 +85,6 @@
     "timeMonth": 1550,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2023-12-17": 11,
       "2023-10-24": 19,
       "2023-10-17": 26,
       "2023-04-13": 39
