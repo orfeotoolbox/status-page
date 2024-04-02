@@ -1,7 +1,7 @@
 url: https://cdash.orfeo-toolbox.org
-status: down
-code: 502
-responseTime: 606
-lastUpdated: 2024-04-02T13:29:33.830Z
+status: up
+code: 200
+responseTime: 1116
+lastUpdated: 2024-04-02T13:36:14.347Z
 startTime: 2022-05-10T20:16:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
