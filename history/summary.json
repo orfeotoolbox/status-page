@@ -6,15 +6,15 @@
     "slug": "forge",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.90%",
     "time": 1673,
-    "timeDay": 1317,
-    "timeWeek": 1443,
-    "timeMonth": 1609,
-    "timeYear": 1669,
+    "timeDay": 1274,
+    "timeWeek": 1387,
+    "timeMonth": 1601,
+    "timeYear": 1668,
     "dailyMinutesDown": {
       "2025-03-27": 16,
       "2025-03-19": 74,
@@ -30,8 +30,7 @@
       "2024-09-09": 15,
       "2024-08-20": 19,
       "2024-06-20": 60,
-      "2024-05-30": 34,
-      "2024-03-29": 42
+      "2024-05-30": 34
     }
   },
   {
@@ -45,11 +44,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.70%",
-    "time": 1979,
-    "timeDay": 1085,
-    "timeWeek": 1310,
-    "timeMonth": 2237,
-    "timeYear": 1720,
+    "time": 1978,
+    "timeDay": 996,
+    "timeWeek": 1217,
+    "timeMonth": 2201,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2025-03-19": 73,
       "2025-02-28": 25,
@@ -78,9 +77,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 1187,
-    "timeDay": 666,
-    "timeWeek": 858,
-    "timeMonth": 1604,
+    "timeDay": 776,
+    "timeWeek": 812,
+    "timeMonth": 1578,
     "timeYear": 1094,
     "dailyMinutesDown": {
       "2025-03-19": 63,
@@ -100,10 +99,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.86%",
     "time": 1460,
-    "timeDay": 990,
-    "timeWeek": 1228,
-    "timeMonth": 1428,
-    "timeYear": 1457,
+    "timeDay": 977,
+    "timeWeek": 1165,
+    "timeMonth": 1414,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2025-03-19": 72,
       "2025-02-28": 15,
@@ -119,8 +118,7 @@
       "2024-08-08": 16,
       "2024-07-22": 200,
       "2024-05-23": 15,
-      "2024-03-31": 50,
-      "2024-03-29": 34
+      "2024-03-31": 50
     }
   },
   {
@@ -128,18 +126,19 @@
     "url": "https://sonar.orfeo-toolbox.org",
     "icon": "https://icons.duckduckgo.com/ip3/sonar.orfeo-toolbox.org.ico",
     "slug": "code-quality-analysis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.91%",
-    "time": 952,
-    "timeDay": 718,
-    "timeWeek": 1017,
-    "timeMonth": 947,
-    "timeYear": 943,
+    "time": 953,
+    "timeDay": 1064,
+    "timeWeek": 1005,
+    "timeMonth": 950,
+    "timeYear": 944,
     "dailyMinutesDown": {
+      "2025-03-29": 0,
       "2025-03-26": 83,
       "2025-03-23": 93,
       "2025-03-19": 72,
@@ -148,8 +147,7 @@
       "2024-10-14": 26,
       "2024-10-04": 85,
       "2024-09-16": 21,
-      "2024-03-31": 49,
-      "2024-03-29": 19
+      "2024-03-31": 49
     }
   }
 ]
