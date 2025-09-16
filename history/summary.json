@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.92%",
-    "time": 1659,
-    "timeDay": 1734,
-    "timeWeek": 1734,
-    "timeMonth": 1626,
-    "timeYear": 1624,
+    "time": 1658,
+    "timeDay": 1461,
+    "timeWeek": 1735,
+    "timeMonth": 1624,
+    "timeYear": 1623,
     "dailyMinutesDown": {
       "2025-08-29": 82,
       "2025-03-27": 16,
@@ -25,8 +25,7 @@
       "2025-01-08": 16,
       "2024-12-11": 41,
       "2024-10-30": 23,
-      "2024-10-18": 25,
-      "2024-09-16": 27
+      "2024-10-18": 25
     }
   },
   {
@@ -41,9 +40,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.69%",
     "time": 1650,
-    "timeDay": 1260,
-    "timeWeek": 1399,
-    "timeMonth": 1349,
+    "timeDay": 1189,
+    "timeWeek": 1408,
+    "timeMonth": 1345,
     "timeYear": 1523,
     "dailyMinutesDown": {
       "2025-09-04": 36,
@@ -74,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1100,
-    "timeDay": 1113,
-    "timeWeek": 1183,
-    "timeMonth": 1096,
+    "timeDay": 883,
+    "timeWeek": 1182,
+    "timeMonth": 1081,
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2025-03-19": 63,
@@ -96,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1535,
-    "timeDay": 1701,
-    "timeWeek": 1450,
-    "timeMonth": 2044,
+    "timeDay": 1130,
+    "timeWeek": 1421,
+    "timeMonth": 2036,
     "timeYear": 1623,
     "dailyMinutesDown": {
       "2025-06-24": 56,
@@ -115,8 +114,7 @@
       "2024-11-09": 63,
       "2024-10-30": 16,
       "2024-10-18": 25,
-      "2024-10-15": 89,
-      "2024-09-16": 24
+      "2024-10-15": 89
     }
   },
   {
@@ -130,10 +128,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 950,
-    "timeDay": 911,
-    "timeWeek": 1144,
-    "timeMonth": 1029,
+    "time": 949,
+    "timeDay": 565,
+    "timeWeek": 1084,
+    "timeMonth": 1017,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2025-06-25": 38,
@@ -146,8 +144,7 @@
       "2024-10-30": 16,
       "2024-10-18": 25,
       "2024-10-14": 26,
-      "2024-10-04": 85,
-      "2024-09-16": 21
+      "2024-10-04": 85
     }
   }
 ]
