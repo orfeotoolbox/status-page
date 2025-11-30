@@ -1,7 +1,7 @@
 url: https://gitlab.orfeo-toolbox.org
-status: up
-code: 200
-responseTime: 1008
-lastUpdated: 2025-11-29T23:16:33.200Z
+status: down
+code: 500
+responseTime: 1631
+lastUpdated: 2025-11-30T09:13:45.278Z
 startTime: 2022-05-10T20:15:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
