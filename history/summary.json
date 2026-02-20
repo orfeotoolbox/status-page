@@ -11,10 +11,10 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.87%",
     "time": 1669,
-    "timeDay": 1205,
-    "timeWeek": 1457,
-    "timeMonth": 1638,
-    "timeYear": 1692,
+    "timeDay": 1138,
+    "timeWeek": 1433,
+    "timeMonth": 1624,
+    "timeYear": 1689,
     "dailyMinutesDown": {
       "2026-02-19": 60,
       "2026-02-10": 60,
@@ -30,8 +30,7 @@
       "2025-08-29": 82,
       "2025-03-27": 16,
       "2025-03-19": 74,
-      "2025-03-02": 84,
-      "2025-02-20": 24
+      "2025-03-02": 84
     }
   },
   {
@@ -46,10 +45,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1454,
-    "timeDay": 1072,
-    "timeWeek": 1126,
-    "timeMonth": 1271,
-    "timeYear": 1479,
+    "timeDay": 1093,
+    "timeWeek": 1138,
+    "timeMonth": 1269,
+    "timeYear": 1477,
     "dailyMinutesDown": {
       "2025-12-12": 21,
       "2025-11-28": 651,
@@ -74,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1114,
-    "timeDay": 1007,
-    "timeWeek": 1131,
-    "timeMonth": 1060,
-    "timeYear": 1124,
+    "timeDay": 965,
+    "timeWeek": 1152,
+    "timeMonth": 1064,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-03-19": 63
     }
@@ -93,11 +92,11 @@
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
-    "time": 1658,
-    "timeDay": 1011,
-    "timeWeek": 2558,
-    "timeMonth": 1633,
-    "timeYear": 1724,
+    "time": 1656,
+    "timeDay": 986,
+    "timeWeek": 2551,
+    "timeMonth": 1578,
+    "timeYear": 1723,
     "dailyMinutesDown": {
       "2026-02-14": 105,
       "2025-12-19": 112,
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 943,
-    "timeDay": 806,
-    "timeWeek": 988,
-    "timeMonth": 989,
-    "timeYear": 957,
+    "time": 944,
+    "timeDay": 701,
+    "timeWeek": 1007,
+    "timeMonth": 975,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2025-12-19": 110,
       "2025-11-16": 99,
