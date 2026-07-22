@@ -1,7 +1,7 @@
 url: https://forum.orfeo-toolbox.org
-status: up
-code: 200
-responseTime: 1177
-lastUpdated: 2026-07-21T23:54:16.407Z
+status: down
+code: 429
+responseTime: 444
+lastUpdated: 2026-07-22T18:16:51.360Z
 startTime: 2022-05-10T20:16:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
