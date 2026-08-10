@@ -4,13 +4,13 @@
     "url": "https://gitlab.orfeo-toolbox.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.orfeo-toolbox.org.ico",
     "slug": "forge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 2248,
+    "time": 2249,
     "timeDay": 1088,
     "timeWeek": 765,
     "timeMonth": 859,
@@ -40,7 +40,8 @@
       "2026-05-06": 100,
       "2026-06-12": 18,
       "2026-06-11": 6,
-      "2026-06-26": 234
+      "2026-06-26": 234,
+      "2026-08-10": 2
     }
   },
   {
@@ -48,17 +49,17 @@
     "url": "https://forum.orfeo-toolbox.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.orfeo-toolbox.org.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.37%",
-    "time": 1412,
-    "timeDay": 1033,
-    "timeWeek": 1235,
-    "timeMonth": 1506,
-    "timeYear": 1346,
+    "time": 1442,
+    "timeDay": 8470,
+    "timeWeek": 3069,
+    "timeMonth": 1930,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2025-09-02": 56,
       "2025-09-04": 36,
@@ -71,7 +72,8 @@
       "2026-05-06": 100,
       "2026-05-19": 5,
       "2026-05-18": 14,
-      "2026-07-22": 89
+      "2026-07-22": 89,
+      "2026-08-10": 2
     }
   },
   {
@@ -100,16 +102,16 @@
     "url": "https://cdash.orfeo-toolbox.org",
     "icon": "https://icons.duckduckgo.com/ip3/cdash.orfeo-toolbox.org.ico",
     "slug": "cdash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 2237,
-    "timeDay": 1137,
-    "timeWeek": 1466,
-    "timeMonth": 1969,
+    "time": 2240,
+    "timeDay": 1812,
+    "timeWeek": 1594,
+    "timeMonth": 1985,
     "timeYear": 2435,
     "dailyMinutesDown": {
       "2025-09-16": 22,
@@ -128,7 +130,8 @@
       "2026-04-25": 85,
       "2026-04-26": 128,
       "2026-05-06": 100,
-      "2026-06-24": 122
+      "2026-06-24": 122,
+      "2026-08-10": 1
     }
   },
   {
@@ -136,17 +139,17 @@
     "url": "https://sonar.orfeo-toolbox.org",
     "icon": "https://icons.duckduckgo.com/ip3/sonar.orfeo-toolbox.org.ico",
     "slug": "code-quality-analysis",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.92%",
-    "time": 1910,
-    "timeDay": 635,
-    "timeWeek": 825,
-    "timeMonth": 3279,
-    "timeYear": 2338,
+    "time": 1909,
+    "timeDay": 557,
+    "timeWeek": 781,
+    "timeMonth": 3192,
+    "timeYear": 2334,
     "dailyMinutesDown": {
       "2025-11-13": 45,
       "2025-11-16": 99,
@@ -186,7 +189,8 @@
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 652,
-      "2026-06-26": 116
+      "2026-06-26": 116,
+      "2026-08-10": 0
     }
   }
 ]
