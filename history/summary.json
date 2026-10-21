@@ -95,17 +95,17 @@
     "url": "https://cdash.orfeo-toolbox.org",
     "icon": "https://icons.duckduckgo.com/ip3/cdash.orfeo-toolbox.org.ico",
     "slug": "cdash",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.71%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "79.49%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.66%",
     "time": 2255,
-    "timeDay": 2274,
-    "timeWeek": 1898,
-    "timeMonth": 2100,
-    "timeYear": 2504,
+    "timeDay": 1936,
+    "timeWeek": 1861,
+    "timeMonth": 2084,
+    "timeYear": 2502,
     "dailyMinutesDown": {
       "2025-11-01": 90,
       "2025-11-05": 22,
@@ -123,7 +123,7 @@
       "2026-05-06": 100,
       "2026-06-24": 122,
       "2026-08-10": 87,
-      "2026-10-21": 0
+      "2026-10-21": 295
     }
   },
   {
